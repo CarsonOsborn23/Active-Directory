@@ -18,7 +18,7 @@ The goal of this project was to build a controlled lab environment to simulate c
 - Hydra was used to brute force an Active Directory user I created
 
 ## Project Workflow
-<img width="1919" height="1079" alt="Virtual Machines installed" src="https://github.com/user-attachments/assets/50791960-4ebd-454f-bbbe-9dbd72be3d98" />
+<img width="1225" height="544" alt="virtual machines" src="https://github.com/user-attachments/assets/8ea35fd4-be56-4c6a-8e9c-27df4cfcab05" />
 I installed the Virtual Machines to my Virtual Box and added a Windows Server, Kali, Windows 8 target-PC and Splunk
 <img width="1212" height="846" alt="set up splunk server" src="https://github.com/user-attachments/assets/a98bef0b-02e4-43c1-b204-200be6d5f347" />
 I Installed Splunk and created my admin account in it
