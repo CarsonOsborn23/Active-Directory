@@ -1,31 +1,26 @@
-# Active Directory
+#  Active Directory
 
 ## Objective
-[Brief Objective - Remove this afterwards]
+The goal of this project was to build a controlled lab environment to simulate cyber attacks and analyze them using a SIEM system. This hands-on experience was designed to improve practical cybersecurity skills, including threat detection, log analysis, and Active Directory administration.
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+## Skills Developed
+- Proficient use of SIEM tools for log ingestion and threat detection
+- Strong understanding of Active Directory, DNS, and Group Policy management
+- Generated attack telemetry to identify common attack patterns
+- Deepened knowledge of network traffic, protocols, and vulnerabilities
 
-### Skills Learned
-[Bullet Points - Remove this afterwards]
+##  Tools Used
+- Windows Server (Active Directory Domain Services, DNS, Group Policy)
+- Splunk was used for real-time monitoring of security and threat detection while gathering my virtual machines' data
+- PowerShell and scripting utilities for configuration
+- AtomicRedTeam was used to simulate and test attacks on my target machine with the help of Splunk
+- Kali Linux was used as the attacking machine
+- Hydra was used to brute force an Active Directory user I created
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+## Project Workflow
+<img width="1919" height="1079" alt="Virtual Machines installed" src="https://github.com/user-attachments/assets/50791960-4ebd-454f-bbbe-9dbd72be3d98" />
 
-### Tools Used
-[Bullet Points - Remove this afterwards]
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+**Ref 1: Network Diagram**  
+> Overview of the virtual lab environment including domain controller, client machines, and SIEM integration.
 
-## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
-
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
-
-*Ref 1: Network Diagram*
