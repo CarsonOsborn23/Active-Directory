@@ -56,12 +56,8 @@ I then used atomicredteam to invoke a final test on T1059.001 which is powershel
 
 
 
+## Network Diagram 
+<img width="532" height="675" alt="Active Directory Diagram drawio" src="https://github.com/user-attachments/assets/38992138-c1a9-4e8a-98a9-0b26053dc859" />
 
 
-
-
-
-
-**Ref 1: Network Diagram**  
-> Overview of the virtual lab environment including domain controller, client machines, and SIEM integration.
 
