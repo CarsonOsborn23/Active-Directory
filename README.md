@@ -4,7 +4,7 @@
 The goal of this project was to build a controlled lab environment to simulate cyber attacks and analyze them using a SIEM system. This hands-on experience was designed to improve practical cybersecurity skills, including threat detection, log analysis, and Active Directory administration.
 
 ## Skills Developed
-- Proficient use of SIEM tools for log ingestion and threat detection
+- Proficient use of Security Information and Event Management tools for log ingestion and threat detection
 - Strong understanding of Active Directory, DNS, and Group Policy management
 - Generated attack telemetry to identify common attack patterns
 - Deepened knowledge of network traffic, protocols, and vulnerabilities
