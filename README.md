@@ -1,7 +1,7 @@
 #  Active Directory
 
 ## Objective
-The goal of this project was to build a controlled lab environment to simulate cyber attacks and analyze them using a SIEM system. This hands-on experience was designed to improve practical cybersecurity skills, including threat detection, log analysis, and Active Directory administration.
+The goal of this project was to build a controlled lab environment to simulate cyber attacks and analyze them using a Security Information and Event Management system. This hands-on experience was designed to improve practical cybersecurity skills, including threat detection, log analysis, and Active Directory administration.
 
 ## Skills Developed
 - Proficient use of Security Information and Event Management tools for log ingestion and threat detection
